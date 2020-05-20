@@ -7,7 +7,7 @@
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
         "cbit_IR": "github:demoto/cBit_IR",
-        "声纳": "github:demoto/sonar"
+        "sonar": "github:demoto/sonar"
     },
     "files": [
         "README.md",
