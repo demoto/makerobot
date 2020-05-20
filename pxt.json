@@ -5,9 +5,9 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
-        "cbit_IR": "github:zhuning239/cBit_IR",
-        "sonar": "github:zhuning239/sonar"
+        "灯阵": "github:microsoft/pxt-neopixel#v0.6.9",
+        "红外": "github:demoto/cBit_IR",
+        "声纳": "github:demoto/sonar"
     },
     "files": [
         "README.md",
